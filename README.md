@@ -1,7 +1,7 @@
 # TheFlyingFishGame
 A simple yet fun android game
 
-The Proposed project is Android Application(Game) The Flying Fish Game.
+The Proposed project is an android application(Game) named "The Flying Fish Game".
 
 ### Description of the game:
 You have the control of a flying fish and to increase your score you need to feed the fish with food. There are 3 types of foods:-
