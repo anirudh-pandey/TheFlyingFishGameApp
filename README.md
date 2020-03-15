@@ -25,7 +25,6 @@ You must have Android Studio installed and configured properly. You must have ba
 ### Built With:
 Android Studio, Android virtual Device.
 
-### Author:
-Anirudh Pandey
+**Author**: Anirudh Pandey
 
 **License**: This is an open source project.
